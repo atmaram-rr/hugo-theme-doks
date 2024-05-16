@@ -109,6 +109,7 @@ Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for comm
 
 ## Blog
 <!--START_SECTION:feed-->
+* [Doks 1.6](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-1-6&#x2F;)
 * [Doks 1.4](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-1-4&#x2F;)
 * [Doks 1.3](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-1-3&#x2F;)
 * [Doks 1.2](https:&#x2F;&#x2F;getdoks.org&#x2F;blog&#x2F;doks-1-2&#x2F;)
